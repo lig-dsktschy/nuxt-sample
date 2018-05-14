@@ -1,6 +1,6 @@
 # nuxt-sample
 
-> My fabulous Nuxt.js project
+> [https://nuxt-sample.netlify.com/](https://nuxt-sample.netlify.com/)
 
 ## Build Setup
 
