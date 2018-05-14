@@ -9,6 +9,6 @@
 
 <style scoped>
 .anchor {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 </style>
