@@ -7,8 +7,12 @@
   </nav>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .anchor {
   margin-right: 20px;
+  color: gray;
+  &:visited {
+    color: #41b883;
+  }
 }
 </style>

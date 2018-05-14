@@ -4,7 +4,7 @@
   </header>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .app-footer {
   color: gray;
 }
