@@ -68,5 +68,10 @@ module.exports = {
         })
       }
     }
+  },
+
+  // Generate 404.html
+  generate: {
+    fallback: true
   }
 }
