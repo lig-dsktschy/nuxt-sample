@@ -1,5 +1,5 @@
 <template>
   <main>
-    PAGE: INDEX
+    PAGE: ABOUT
   </main>
 </template>
